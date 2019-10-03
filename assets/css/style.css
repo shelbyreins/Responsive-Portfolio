@@ -201,11 +201,83 @@ textarea {
 
 /* End Footer */
 
+@media screen and (max-width: 980px){
 
 
+}
+
+@media screen and (max-width: 768px){
 
 
+}
 
+@media screen and (max-width: 640px){
+
+    header{
+        width: 100%;
+        position: static;
+    }
+
+    #box{
+        margin-left: 0%;
+    }
+
+    #name{
+        width: 100%;
+        position: center;
+    }
+
+    nav{
+        width: 100%;
+        text-align: center;
+        margin-right: 0%;
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+
+    #middle-section{
+        width: 540px;
+        margin: 10%;
+        position: center;
+        margin-bottom: 300px;
+        margin-left: 6%;
+        margin-top: 3%;
+    }
+
+
+    /* #bio-image{
+       
+
+    } */
+
+    .portfolio{
+        padding-left: 60px;
+    }
+
+    .image{
+        width: 300px;
+        height: 200px;
+    }
+
+    figcaption{
+        width: 280px
+    }
+
+    textarea{
+        height: 200px;
+    }
+    
+
+    footer{
+       width: 100%; 
+       text-align: center;
+    }
+
+    #copyright{
+        text-align: center;
+        padding-right: 35px;
+    }
+}
 
 
  

@@ -203,7 +203,68 @@ textarea {
 
 @media screen and (max-width: 980px){
 
+    header{
+        width: 100%;
+        position: static;
+    }
 
+
+    #box{
+        margin-left:40px;
+    }
+
+    nav{
+        float: right;
+        margin-right: 20px;
+        
+    }
+
+    #middle-section{
+       width: 630px; 
+       margin-left: 40px;
+       
+       margin-bottom: 500px
+    }
+    
+    #bio-image {
+        width: 230px;
+        height: 200px
+    }
+
+    p{
+        padding: 10px;
+    }
+
+    textarea{
+        height: 200px;
+    }
+
+    .portfolio{
+        margin-left: 25px; 
+        
+     }
+ 
+     .image{
+         width: 250px;
+         height: 150px;
+         padding: 10px;
+         
+     } 
+ 
+      figcaption{
+         width: 230px;
+         margin-left: 10px
+     }
+
+    footer{
+        width: 100%; 
+        text-align: center;
+     }
+ 
+     #copyright{
+         text-align: center;
+         padding-right: 35px;
+     }
 }
 
 @media screen and (max-width: 768px){

@@ -364,10 +364,16 @@ textarea {
     }
 
 
-    /* #bio-image{
-       
+    #bio-image{
+       width: 75%;
+       height: 40%;
+       margin-left: 7%;
 
-    } */
+    }
+
+    p{
+        float: left;
+    }
 
     .portfolio{
         padding-left: 60px;
